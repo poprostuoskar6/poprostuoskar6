@@ -198,13 +198,13 @@ Krótki opis projektu - co robi, jakie problemy rozwiązuje, i dlaczego jest int
 ## 🤝 Połączmy się
 
 <p align="left">
-  <a href="https://discord.gg/oskiboski_666" target="blank">
+  <a href="https://discord.gg/1022431815069335592" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oskiboski_666" height="40" width="50" />
   </a>
-  <a href="mailto:twoj.email@example.com" target="blank">
+  <a href="mailto:oskar.business6@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="50" />
   </a>
-  <a href="https://github.com/oskarboski" target="blank">
+  <a href="https://github.com/poprostuoskar6" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="50" />
   </a>
   <a href="https://linkedin.com/in/twoj-profil" target="blank">
