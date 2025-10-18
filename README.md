@@ -144,7 +144,7 @@ Modern development isn't complete without understanding deployment and operation
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/>
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://highlightai.com/_next/image?url=%2Fassets%2Ficons%2FGithub.png&w=32&q=75)" alt="android" width="50" height="50"/>
   </a>
 </p>
 
